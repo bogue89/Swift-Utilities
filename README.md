@@ -7,7 +7,7 @@ How to use it:
 Initialize a UIColor Object like you would do, but with a valid string representation of hexadecimal color.
 	
 	/*
-		The string is formed by 3 parts, the (red, green, blue, and alpha) represented by 1 or 2 chars case insensitive. (The hash character is optional)
+		The string is formed by 4 parts, the (red, green, blue, and alpha) represented by 1 or 2 chars case insensitive. (The hash character is optional)
 		Examples:
 			"#F00" <- r=0xFF, g=0x00, b=0x00, a=0xFF
 			"#C442" <- r=0xCC, g=0x44, b=0x44, a=0x22
