@@ -24,10 +24,8 @@ Initialize a UIColor Object like you would do, but with a valid string represent
 Features
 --------
 
-- Rearrange the bases to hide the incremental
-- Pass data in smaller chars representations of values
-- Use only the chars you need (very useful for urls)
-- Make things your way
+- Create UIColor object from string value
+- Easy to use
 
 Installation
 ------------
